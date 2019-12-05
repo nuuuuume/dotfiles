@@ -1,0 +1,19 @@
+URxvt.background: #222222
+URxvt.foreground: #dddddd
+URxvt.font: xft:Cica:size=11
+URxvt.scrollstyle:    plain
+URxvt.cursorBlink:  true
+URxvt.saveLines: 10000
+URxvt.fading: 40
+URxvt.letterSpace: 0
+URxvt.perl-ext-common: default
+URxvt.perl-ext: 
+URxvt.perl-lib: /home/nuneno/.urxvt/
+!URxvt.keysym.M-Escape: perl:keyboard-select:activate
+!URxvt.tabbed.tabbar-fg: 15
+!URxvt.tabbed.tabbar-bg: 234
+!URxvt.tabbed.tab-fg:    232
+!URxvt.tabbed.tab-bg:    255
+!URxvt.tabbed.new-button: false
+Xcursor.theme: gentoo-silver
+Xcursor.size: 18
